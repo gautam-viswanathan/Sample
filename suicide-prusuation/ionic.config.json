@@ -1,0 +1,7 @@
+{
+  "name": "Suicide Prusuation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
